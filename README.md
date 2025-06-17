@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on robots using LIDAR technology
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on web designing or any CS-related projects.
 - 🤔 I’m looking for help with SQL and Python
 - 💬 Ask me about the Phillies and the Marias
